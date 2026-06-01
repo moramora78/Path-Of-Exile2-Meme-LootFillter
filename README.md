@@ -1,7 +1,9 @@
+
+
 # Path-Of-Exile-Meme-LootFillter
 A loot filter full of memes to keep the dopamine rolling during the POE2 experience.
 
-Currently, there are 250+ unique sounds. I started working on this before the 0.50 announcement.... kill me
+Currently, there are 250+ unique sounds. I started working on this before the 0.50 announcement....
 
 -------Update 0.5.0 ---------
 
@@ -20,7 +22,7 @@ There is not much actual filtering being done here; the filter is based on the N
 7. waystones - only one per tier 
 8. catalyts - Creeper( you better have said aw man) spongebob
 9. essences- big lez + some spongebob quotes
-10. gems and lineage - I call it an uncut skill gem, rhymes with grug
+10. gems and lineage - I call it an uncut skill gem, rhymes with grug 
 11. relics- various vocal stims
 12. fragments - big lez
 13. vault keys - duke nuke em
@@ -35,8 +37,8 @@ Most listed above have 4 or 5 sounds, some 20 (yes 20)
 Honestly, some things are so varied in their sources that it's hard to make a hard category for them.
 
 ---instalation---
-git hub will download the filter and the sounds a one compressed zip file, this zip fill will contain another folder with the sounds and .fillter file. 
-place the 0.5.0memefillter. filter into the game directory (launch the game and press the folder icon in settings to get there quickly) 
+git hub will download the filter and the sounds a one compressed zip file, this zip fill will contain another folder with the sounds (gsounds) and .fillter file. (0.50 meme.fillter)
+place the 0.50memefillter. filter into the game directory (launch the game and press the folder icon in settings( under game) to get there quickly) 
 Then place the folder containing the sound into the same directory, and you are done. (You may need to press the refresh button to get the filter to show up. Enjoy the new vocal stims.
 ---DEMO---
 PLACE YOUTUBE LINK HERE ()()()()
