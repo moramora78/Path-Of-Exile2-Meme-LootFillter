@@ -37,11 +37,12 @@ Most listed above have 4 or 5 sounds, some 20 (yes 20)
 Honestly, some things are so varied in their sources that it's hard to make a hard category for them.
 
 ---instalation---
-git hub will download the filter and the sounds a one compressed zip file, this zip fill will contain another folder with the sounds (gsounds) and .fillter file. (0.50 meme.fillter)
-place the 0.50memefillter. filter into the game directory (launch the game and press the folder icon in settings( under game) to get there quickly) 
+GitHub will download the filter and the sounds as a single compressed ZIP file. This zip file will contain another folder with the sounds (gsounds) and a .filter file. (0.50 meme.filter)
+Place the 0.50memefilter. filter into the game directory (launch the game and press the folder icon in settings( under game) to get there quickly) 
 Then place the folder containing the sound into the same directory, and you are done. (You may need to press the refresh button to get the filter to show up. Enjoy the new vocal stims.
 ---DEMO---
-PLACE YOUTUBE LINK HERE ()()()()
+https://www.youtube.com/watch?v=0X9fNB563sA
+[This video only shows a fraction of the sounds and items ... it's what is had, ok]
 
 
 
